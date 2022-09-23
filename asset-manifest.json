@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/myosin/static/css/main.073c9b0a.css",
-    "main.js": "/myosin/static/js/main.43f15cc2.js",
-    "static/js/787.1cc63c4a.chunk.js": "/myosin/static/js/787.1cc63c4a.chunk.js",
-    "static/media/logo.svg": "/myosin/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/myosin/static/css/main.e0c61735.css",
+    "main.js": "/myosin/static/js/main.beb94d26.js",
+    "static/media/shop02.webp": "/myosin/static/media/shop02.e5f0303a06ae67459f2d.webp",
+    "static/media/shop03.webp": "/myosin/static/media/shop03.a995543eeae7e5f1e79e.webp",
+    "static/media/shop01.webp": "/myosin/static/media/shop01.f2542ab8209d03456492.webp",
     "index.html": "/myosin/index.html",
-    "main.073c9b0a.css.map": "/myosin/static/css/main.073c9b0a.css.map",
-    "main.43f15cc2.js.map": "/myosin/static/js/main.43f15cc2.js.map",
-    "787.1cc63c4a.chunk.js.map": "/myosin/static/js/787.1cc63c4a.chunk.js.map"
+    "main.e0c61735.css.map": "/myosin/static/css/main.e0c61735.css.map",
+    "main.beb94d26.js.map": "/myosin/static/js/main.beb94d26.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.43f15cc2.js"
+    "static/css/main.e0c61735.css",
+    "static/js/main.beb94d26.js"
   ]
 }
